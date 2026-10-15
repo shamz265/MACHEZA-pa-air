@@ -1,0 +1,11 @@
+{
+  "name": "Aura - Chat, Voice & Video Calls, Stories",
+  "description": "Macheza Pa Air: Malawian texting, HD voice and video calling, 24-hour stories, and the Chikondi VIP loved ones matchmaking lounge.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
